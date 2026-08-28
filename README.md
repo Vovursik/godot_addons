@@ -1,4 +1,4 @@
-![Godot](https://img.shields.io/badge/Godot-4.5+-478cbf?style=flat-square&logo=godotengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-4.7-478cbf?style=flat-square&logo=godotengine&logoColor=white)
 
 # Godot Addons
 Personal Godot addons library: reusable tools I created and carry from project to project.
